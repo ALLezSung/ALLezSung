@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, Alan here.</h1>
+<h3 align="center">A college student🐼 interested in coding.</h3>
 
-<!--
-**ALLezSung/ALLezSung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![首页访问数](https://komarev.com/ghpvc/?username=ALLezSung)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [NN-learn](https://github.com/ALLezSung/NN-learn).
+- 🌱 I’m currently learning **nerual networks**.
+- 💬 Ask me about **Python**.
+- 📧 Reach me at alansung100@gmail.com.
+- 💡 Nuts about **billiard, photograph and AI**.
+
+### Learning Goals:
+- Machine Learning
+- Backend technology stack
+- Web development
+- Basic: Java, Linux, Docker.
+
+### Languages and Tools:
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://pytorch.org" target="_blank"> <img src="https://pytorch.org/assets/images/logo-icon.svg" alt="PyTorch" width="40" height="40"/>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<a href="https://helpx.adobe.com/" target="_blank"> <img src="https://helpx.adobe.com/content/dam/help/mnemonics/ps_cc_app_RGB.svg" alt="photoshop" width="40" height="40"/>
+
+
+![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=ALLezSung&show_icons=true&theme=tokyonight)
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=ALLezSung&layout=compact&theme=tokyonight)
