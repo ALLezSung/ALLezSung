@@ -12,9 +12,9 @@
 
 ### Learning Goals:
 - Machine Learning
-- Backend technology stack
-- Web development
-- Basic: Java, Linux, Docker.
+- Embedded Systems Development
+- Web Development
+- Basic: Java, Linux, Docker, Spider.
 
 ### Languages and Tools:
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
