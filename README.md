@@ -4,14 +4,14 @@
 
 ![首页访问数](https://komarev.com/ghpvc/?username=ALLezSung)
 
-- 🔭 I’m currently working on [NN-learn](https://github.com/ALLezSung/NN-learn).
-- 🌱 I’m currently learning **nerual networks**.
+- 🔭 I’m currently working on Graduation Thesis.
+- 🌱 I’m currently learning **LLM**.
 - 💬 Ask me about **Python**.
 - 📧 Reach me at alansung100@gmail.com.
 - 💡 Nuts about **billiard, photograph and AI**.
 
 ### Learning Goals:
-- Machine Learning
+- Large Language Models
 - Embedded Systems Development
 - Web Development
 - Basic: Java, Linux, Docker, Spider.
