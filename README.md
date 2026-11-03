@@ -21,6 +21,4 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <a href="https://helpx.adobe.com/" target="_blank"> <img src="https://helpx.adobe.com/content/dam/help/mnemonics/ps_cc_app_RGB.svg" alt="photoshop" width="40" height="40"/>
 
-
-![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=ALLezSung&show_icons=true&theme=tokyonight)
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=ALLezSung&layout=compact&theme=tokyonight)
