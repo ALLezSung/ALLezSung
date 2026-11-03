@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, Alan here.</h1>
-<h3 align="center">A college student🐼 interested in coding.</h3>
-
 
 ![首页访问数](https://komarev.com/ghpvc/?username=ALLezSung)
 
-- 🔭 I’m currently working on Graduation Thesis.
-- 🌱 I’m currently learning **LLM**.
-- 💬 Ask me about **Python**.
+- 🔭 I’m currently working on Graduate Courses.
+- 🌱 I’m currently learning **LLM**, **Agent**, **Python**.
 - 📧 Reach me at alansung100@gmail.com.
 - 💡 Nuts about **billiard, photograph and AI**.
 
-### Learning Goals:
+### Interests:
 - Large Language Models
 - Embedded Systems Development
 - Web Development
-- Basic: Java, Linux, Docker, Spider.
+- Computer Network
+- Basic: Java, Linux.
 
 ### Languages and Tools:
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
